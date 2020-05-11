@@ -4,6 +4,7 @@
     <bytecodeTargetLevel>
       <module name="MyMovies.app" target="1.7" />
       <module name="MyMovies8.app" target="1.7" />
+      <module name="MyScrollMovie3.app" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
