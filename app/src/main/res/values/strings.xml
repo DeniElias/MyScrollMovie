@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Scroll Movie</string>
+    <string name="poster_of_movie">Poster of Movie</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="add_to_favourite">Add to Favorite</string>
+    <string name="remove_from_favourite">Remove from Favourite</string>
+    <string name="item_main">Main</string>
+    <string name="item_favourite">Favourite</string>
+    <string name="launch_trailer">Launch Trailer</string>
+    <string name="title">Title:</string>
+    <string name="original_title">Original Title:</string>
+    <string name="rating">Rating:</string>
+    <string name="release_date">Release Date:</string>
+    <string name="overview">Overview:</string>
+    <string name="trailers_label">Trailers:</string>
+    <string name="reviews">Reviews:</string>
+    <string name="test_trailer_title">Trailer 1</string>
+    <string name="description_icon_launch_trailer">Icon Launch Trailer</string>
+</resources>

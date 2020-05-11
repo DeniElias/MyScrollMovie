@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="poster_of_movie" translatable="false">Постер к фильму</string>
+    <string name="most_popular" translatable="false">Самые популярные</string>
+    <string name="top_rated" translatable="false">Наиболее рейтинговые</string>
+    <string name="add_to_favourite" translatable="false">Добавлено в избранное</string>
+    <string name="remove_from_favourite" translatable="false">Удалено из избранного</string>
+    <string name="item_main" translatable="false">Главная</string>
+    <string name="item_favourite" translatable="false">Избранное</string>
+    <string name="launch_trailer" translatable="false">Запустить трейлер</string>
+    <string name="title" translatable="false">Название:</string>
+    <string name="original_title" translatable="false">Оригинальное название:</string>
+    <string name="rating" translatable="false">Рейтинг:</string>
+    <string name="release_date" translatable="false">Дата релиза:</string>
+    <string name="overview" translatable="false">Описание:</string>
+    <string name="trailers_label" translatable="false">Трейлеры:</string>
+    <string name="reviews" translatable="false">Отзывы:</string>
+    <string name="test_trailer_title" translatable="false">Трейлер 1</string>
+    <string name="description_icon_launch_trailer" translatable="false">Иконка проигрывателя</string>
+    <string name="app_name" translatable="false">Мое Крутое Кино</string>
+</resources>
